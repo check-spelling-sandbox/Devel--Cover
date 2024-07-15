@@ -7,7 +7,7 @@ Devel::Cover history
  - Test with DBM::Deep on CI
 
 1.43 - 8 June 2024
- - Bump coancover version requirements to 5.38
+ - Bump cpancover version requirements to 5.38
  - Format cpancover and Cover::Collection
  - Format main documentation
  - Tidy dc script
